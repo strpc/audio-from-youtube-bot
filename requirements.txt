@@ -1,0 +1,6 @@
+proxybroker==0.3.2
+pyTelegramBotAPI==3.6.7
+youtube-dl==2020.1.24
+
+ffmpeg: brew install ffmpeg/apt-get install ffmpeg
+or https://www.ffmpeg.org/download.html
